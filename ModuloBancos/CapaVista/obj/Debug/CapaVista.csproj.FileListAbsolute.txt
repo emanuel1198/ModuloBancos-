@@ -1,0 +1,18 @@
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Proyecto 2\Tarea de Face 3\ModuloBancos\CapaVista\bin\Debug\CapaVista.dll
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Proyecto 2\Tarea de Face 3\ModuloBancos\CapaVista\bin\Debug\CapaVista.pdb
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Proyecto 2\Tarea de Face 3\ModuloBancos\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Proyecto 2\Tarea de Face 3\ModuloBancos\CapaVista\obj\Debug\CapaVista.InterfazBancos.resources
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Proyecto 2\Tarea de Face 3\ModuloBancos\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Proyecto 2\Tarea de Face 3\ModuloBancos\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Proyecto 2\Tarea de Face 3\ModuloBancos\CapaVista\obj\Debug\CapaVista.dll
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Proyecto 2\Tarea de Face 3\ModuloBancos\CapaVista\obj\Debug\CapaVista.pdb
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Proyecto 2\Tarea de Face 3\ModuloBancos\CapaVista\obj\Debug\CapaVista.Transferencia.resources
+C:\Users\alvar\source\repos\ModuloBancos\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\alvar\source\repos\ModuloBancos\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\alvar\source\repos\ModuloBancos\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\ModuloBancos\CapaVista\obj\Debug\CapaVista.InterfazBancos.resources
+C:\Users\alvar\source\repos\ModuloBancos\CapaVista\obj\Debug\CapaVista.Transferencia.resources
+C:\Users\alvar\source\repos\ModuloBancos\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\alvar\source\repos\ModuloBancos\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\ModuloBancos\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\alvar\source\repos\ModuloBancos\CapaVista\obj\Debug\CapaVista.pdb
