@@ -1,0 +1,12 @@
+C:\Users\franc\source\repos\Llamada\bin\Debug\Llamada.exe.config
+C:\Users\franc\source\repos\Llamada\bin\Debug\Llamada.exe
+C:\Users\franc\source\repos\Llamada\bin\Debug\Llamada.pdb
+C:\Users\franc\source\repos\Llamada\bin\Debug\CapaVista.dll
+C:\Users\franc\source\repos\Llamada\bin\Debug\CapaVista.pdb
+C:\Users\franc\source\repos\Llamada\obj\Debug\Llamada.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Llamada\obj\Debug\Llamada.Properties.Resources.resources
+C:\Users\franc\source\repos\Llamada\obj\Debug\Llamada.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\Llamada\obj\Debug\Llamada.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Llamada\obj\Debug\Llamada.csproj.CopyComplete
+C:\Users\franc\source\repos\Llamada\obj\Debug\Llamada.exe
+C:\Users\franc\source\repos\Llamada\obj\Debug\Llamada.pdb

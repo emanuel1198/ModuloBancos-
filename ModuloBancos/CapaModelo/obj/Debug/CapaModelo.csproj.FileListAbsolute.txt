@@ -4,3 +4,9 @@ D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Proyecto 2\Tarea de Face 3\Mod
 D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Proyecto 2\Tarea de Face 3\ModuloBancos\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
 D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Proyecto 2\Tarea de Face 3\ModuloBancos\CapaModelo\obj\Debug\CapaModelo.dll
 D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Proyecto 2\Tarea de Face 3\ModuloBancos\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\franc\OneDrive\Documentos\Analisis Sistemas ll\Bancos\ModuloBancos-\ModuloBancos\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\franc\OneDrive\Documentos\Analisis Sistemas ll\Bancos\ModuloBancos-\ModuloBancos\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\franc\OneDrive\Documentos\Analisis Sistemas ll\Bancos\ModuloBancos-\ModuloBancos\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\Analisis Sistemas ll\Bancos\ModuloBancos-\ModuloBancos\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\Analisis Sistemas ll\Bancos\ModuloBancos-\ModuloBancos\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\franc\OneDrive\Documentos\Analisis Sistemas ll\Bancos\ModuloBancos-\ModuloBancos\CapaModelo\obj\Debug\CapaModelo.pdb
