@@ -16,3 +16,12 @@ C:\Users\alvar\source\repos\ModuloBancos\CapaVista\obj\Debug\CapaVista.csproj.Ge
 C:\Users\alvar\source\repos\ModuloBancos\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
 C:\Users\alvar\source\repos\ModuloBancos\CapaVista\obj\Debug\CapaVista.dll
 C:\Users\alvar\source\repos\ModuloBancos\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\franc\OneDrive\Documentos\Analisis Sistemas ll\Bancos\ModuloBancos-\ModuloBancos\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\franc\OneDrive\Documentos\Analisis Sistemas ll\Bancos\ModuloBancos-\ModuloBancos\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\franc\OneDrive\Documentos\Analisis Sistemas ll\Bancos\ModuloBancos-\ModuloBancos\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\Analisis Sistemas ll\Bancos\ModuloBancos-\ModuloBancos\CapaVista\obj\Debug\CapaVista.InterfazBancos.resources
+C:\Users\franc\OneDrive\Documentos\Analisis Sistemas ll\Bancos\ModuloBancos-\ModuloBancos\CapaVista\obj\Debug\CapaVista.Transferencia.resources
+C:\Users\franc\OneDrive\Documentos\Analisis Sistemas ll\Bancos\ModuloBancos-\ModuloBancos\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Documentos\Analisis Sistemas ll\Bancos\ModuloBancos-\ModuloBancos\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\Analisis Sistemas ll\Bancos\ModuloBancos-\ModuloBancos\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\franc\OneDrive\Documentos\Analisis Sistemas ll\Bancos\ModuloBancos-\ModuloBancos\CapaVista\obj\Debug\CapaVista.pdb
