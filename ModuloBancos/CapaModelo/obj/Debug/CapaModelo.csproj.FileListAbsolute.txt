@@ -1,0 +1,6 @@
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Proyecto 2\Tarea de Face 3\ModuloBancos\CapaModelo\bin\Debug\CapaModelo.dll
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Proyecto 2\Tarea de Face 3\ModuloBancos\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Proyecto 2\Tarea de Face 3\ModuloBancos\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Proyecto 2\Tarea de Face 3\ModuloBancos\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Proyecto 2\Tarea de Face 3\ModuloBancos\CapaModelo\obj\Debug\CapaModelo.dll
+D:\Luis David\UMG\2, 2021\Analisis de sistemas II\Proyecto 2\Tarea de Face 3\ModuloBancos\CapaModelo\obj\Debug\CapaModelo.pdb
